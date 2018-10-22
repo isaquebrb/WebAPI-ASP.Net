@@ -1,0 +1,6 @@
+C:\Users\iribeirb\source\repos\DevStore\DevStore.Domain\bin\Release\DevStore.Domain.dll
+C:\Users\iribeirb\source\repos\DevStore\DevStore.Domain\bin\Release\DevStore.Domain.pdb
+C:\Users\iribeirb\source\repos\DevStore\DevStore.Domain\obj\Release\DevStore.Domain.csprojAssemblyReference.cache
+C:\Users\iribeirb\source\repos\DevStore\DevStore.Domain\obj\Release\DevStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\iribeirb\source\repos\DevStore\DevStore.Domain\obj\Release\DevStore.Domain.dll
+C:\Users\iribeirb\source\repos\DevStore\DevStore.Domain\obj\Release\DevStore.Domain.pdb

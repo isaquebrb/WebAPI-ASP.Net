@@ -1,0 +1,14 @@
+C:\Users\iribeirb\source\repos\DevStore\DevStore.DataAccess\bin\Debug\DevStore.Infra.dll.config
+C:\Users\iribeirb\source\repos\DevStore\DevStore.DataAccess\bin\Debug\DevStore.Infra.dll
+C:\Users\iribeirb\source\repos\DevStore\DevStore.DataAccess\bin\Debug\DevStore.Infra.pdb
+C:\Users\iribeirb\source\repos\DevStore\DevStore.DataAccess\bin\Debug\DevStore.Domain.dll
+C:\Users\iribeirb\source\repos\DevStore\DevStore.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\iribeirb\source\repos\DevStore\DevStore.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iribeirb\source\repos\DevStore\DevStore.DataAccess\bin\Debug\DevStore.Domain.pdb
+C:\Users\iribeirb\source\repos\DevStore\DevStore.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\iribeirb\source\repos\DevStore\DevStore.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iribeirb\source\repos\DevStore\DevStore.DataAccess\obj\Debug\DevStore.Infra.csprojAssemblyReference.cache
+C:\Users\iribeirb\source\repos\DevStore\DevStore.DataAccess\obj\Debug\DevStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\iribeirb\source\repos\DevStore\DevStore.DataAccess\obj\Debug\DevStore.Infra.csproj.CopyComplete
+C:\Users\iribeirb\source\repos\DevStore\DevStore.DataAccess\obj\Debug\DevStore.Infra.dll
+C:\Users\iribeirb\source\repos\DevStore\DevStore.DataAccess\obj\Debug\DevStore.Infra.pdb

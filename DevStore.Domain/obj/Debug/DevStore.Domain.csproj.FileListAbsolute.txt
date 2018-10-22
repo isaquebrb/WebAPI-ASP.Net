@@ -1,0 +1,5 @@
+C:\Users\iribeirb\source\repos\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.dll
+C:\Users\iribeirb\source\repos\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
+C:\Users\iribeirb\source\repos\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\iribeirb\source\repos\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.dll
+C:\Users\iribeirb\source\repos\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.pdb
